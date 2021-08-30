@@ -1,11 +1,5 @@
 #include<iostream>
-#include<vector>
-#include<cmath>
-#include<sstream>
-#include<string>
-#include<map>
-#include<stack>
-#include<queue>
+
 using namespace std;
 
 
